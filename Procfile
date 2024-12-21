@@ -1,0 +1,1 @@
+web: vendor/bin/heroku-php-apache2 saferoute-widget-api.php
